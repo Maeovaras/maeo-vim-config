@@ -33,3 +33,4 @@ If colors are off, ensure 256-color support:
 ```bash
 export TERM=xterm-256color
 ```
+<img width="2522" height="1319" alt="image" src="https://github.com/user-attachments/assets/336d659d-dfae-4808-a684-370948102c80" />
